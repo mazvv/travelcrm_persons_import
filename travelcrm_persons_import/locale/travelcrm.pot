@@ -1,0 +1,122 @@
+# Translations template for travelcrm_persons_import.
+# Copyright (C) 2016 ORGANIZATION
+# This file is distributed under the same license as the
+# travelcrm_persons_import project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: travelcrm_persons_import 0.1\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2016-05-07 18:09+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: travelcrm_persons_import/forms/persons_import.py:21
+msgid "File is too big"
+msgstr ""
+
+#: travelcrm_persons_import/forms/persons_import.py:26
+msgid "This files types is not allowed"
+msgstr ""
+
+#: travelcrm_persons_import/forms/persons_import.py:44
+#: travelcrm_persons_import/forms/persons_import.py:69
+#: travelcrm_persons_import/forms/persons_import.py:117
+#: travelcrm_persons_import/forms/persons_import.py:126
+msgid "Set num of column"
+msgstr ""
+
+#: travelcrm_persons_import/lib/scheduler/persons_import.py:121
+msgid "Persons import status"
+msgstr ""
+
+#: travelcrm_persons_import/lib/scheduler/persons_import.py:122
+msgid "Persons import was completed"
+msgstr ""
+
+#: travelcrm_persons_import/resources/persons_import.py:23
+msgid "import"
+msgstr ""
+
+#: travelcrm_persons_import/templates/index.mako:19
+msgid "Upload CSV file and set column numbers for fields"
+msgstr ""
+
+#: travelcrm_persons_import/templates/index.mako:23
+msgid "file"
+msgstr ""
+
+#: travelcrm_persons_import/templates/index.mako:28
+msgid "Choose File"
+msgstr ""
+
+#: travelcrm_persons_import/templates/index.mako:35
+msgid "first name"
+msgstr ""
+
+#: travelcrm_persons_import/templates/index.mako:47
+msgid "second name"
+msgstr ""
+
+#: travelcrm_persons_import/templates/index.mako:59
+msgid "last name"
+msgstr ""
+
+#: travelcrm_persons_import/templates/index.mako:68
+msgid "phones"
+msgstr ""
+
+#: travelcrm_persons_import/templates/index.mako:77
+msgid "emails"
+msgstr ""
+
+#: travelcrm_persons_import/templates/index.mako:85
+msgid "Passport"
+msgstr ""
+
+#: travelcrm_persons_import/templates/index.mako:88
+#: travelcrm_persons_import/templates/index.mako:117
+msgid "country"
+msgstr ""
+
+#: travelcrm_persons_import/templates/index.mako:97
+#: travelcrm_persons_import/templates/index.mako:126
+msgid "num"
+msgstr ""
+
+#: travelcrm_persons_import/templates/index.mako:106
+#: travelcrm_persons_import/templates/index.mako:144
+msgid "description"
+msgstr ""
+
+#: travelcrm_persons_import/templates/index.mako:114
+msgid "Foreign Passport"
+msgstr ""
+
+#: travelcrm_persons_import/templates/index.mako:135
+msgid "end date"
+msgstr ""
+
+#: travelcrm_persons_import/templates/index.mako:156
+msgid "Import"
+msgstr ""
+
+#: travelcrm_persons_import/templates/index.mako:157
+msgid "Cancel"
+msgstr ""
+
+#: travelcrm_persons_import/views/persons_import.py:43
+msgid "Task will start soon"
+msgstr ""
+
+#: travelcrm_persons_import/views/persons_import.py:48
+msgid "Please, check errors"
+msgstr ""
+
